@@ -2,7 +2,7 @@ Here's an ad block list to block ads on discover.com!  I was annoyed about how I
 
 To add this list to uBlock Origin, open uBlock's settings page and click on the "Filter lists" tab.  At the bottom of the page, expand the "Custom" tree and check the "Import..." box.  Then, add this URL to the textarea that appears:
 
-    https://raw.githubusercontent.com/synthead/discover-adfree/master/discover-adfree.txt
+    https://raw.githubusercontent.com/synthead/discover-adfree/main/discover-adfree.txt
 
 Click the "Apply changes" button on the top-left of the page, and you're done!  This URL reflects the latest commit to this list, so your ad blocker will auto-update accordingly.
 
