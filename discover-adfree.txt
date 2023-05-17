@@ -1,0 +1,16 @@
+! Title: Discover Adfree
+! Description: A list for your ad blocker to remove ads on discover.com
+! Homepage: https://github.com/synthead/discover-adfree
+
+
+! Modals with rotating upsells.
+
+card.discover.com##div.at-overlay-bg
+
+! "Apply for a credit line increase today" and "Open a savings account and earn up to $200*" tiles on the left.
+
+card.discover.com##div.balance-payment-cbb-container > div.dmp-slide.at-element-marker
+
+! "You deserve a CD that works on your terms" tile on the right.
+
+card.discover.com##div.transaction-summary-shortcuts-container > div.dmp-slide.at-element-marker
